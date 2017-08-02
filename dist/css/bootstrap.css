@@ -1,0 +1,28 @@
+body {
+    padding-top: 65px;
+}
+
+@me  dia (min-width: 979px) {
+    #midCol.affix-top {
+        position: fixed;
+        width: 150px;
+        margin-right: 10px;
+    }gfvd
+    #midCol.affix {
+        position: static
+        width: 100%;
+    }
+}
+
+
+
+@media (min-width: 767px) {
+    .affix,
+    .affix-top {
+        position: fixed;
+    }
+}
+#searchTextBox {
+    width: 200px;
+    float: right;
+}
