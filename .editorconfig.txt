@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added 1234
+=======
+added 4567
+>>>>>>> branch 'master' of https://github.com/vaibgoyal/git_bootstrap
